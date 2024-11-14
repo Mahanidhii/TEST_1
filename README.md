@@ -1,4 +1,4 @@
-# Test Topic given : Heart Disease Prediction
+# Test Topic Given : Heart Disease Prediction
 
 ### Description
 A Regression type prediction model using Random Forest Regression algorithm. It uses accuracy score and classification report as the metric for prediction.
@@ -13,7 +13,7 @@ A Regression type prediction model using Random Forest Regression algorithm. It 
 8. `git push --set-upstream origin master`, sends all the files from git to github.
    
 Docker Commands:
-1. `docker build -t folder_name> .`
+1. `docker build -t ,folder_name> .`
 2. `docker run <folder_name>`
 
 ### Steps:
@@ -28,5 +28,6 @@ Docker Commands:
 9. Visualize the output in the command prompt and in the Docker Desktop app
 
 ### Output:
-![image](https://github.com/user-attachments/assets/29d15664-3cd4-4943-9db2-5b7a66d85ae1)
-![image](https://github.com/user-attachments/assets/8eaf26fa-7f7d-49ee-bc45-a1551eeac752)
+![Screenshot 2024-10-27 193431](https://github.com/user-attachments/assets/90b68158-f2c7-49ef-b520-827ace204070)
+
+![Screenshot 2024-10-27 193359](https://github.com/user-attachments/assets/54a2b570-8a14-4bc7-97e3-96ca04dd1d6d)
